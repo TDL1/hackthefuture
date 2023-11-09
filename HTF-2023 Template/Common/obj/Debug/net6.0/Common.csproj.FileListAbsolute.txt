@@ -1,0 +1,12 @@
+C:\Users\Mathis Vanhauwe\Desktop\Hackthefuture\hackthefuture\HTF-2023 Template\Common\bin\Debug\net6.0\Common.deps.json
+C:\Users\Mathis Vanhauwe\Desktop\Hackthefuture\hackthefuture\HTF-2023 Template\Common\bin\Debug\net6.0\Common.dll
+C:\Users\Mathis Vanhauwe\Desktop\Hackthefuture\hackthefuture\HTF-2023 Template\Common\bin\Debug\net6.0\Common.pdb
+C:\Users\Mathis Vanhauwe\Desktop\Hackthefuture\hackthefuture\HTF-2023 Template\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+C:\Users\Mathis Vanhauwe\Desktop\Hackthefuture\hackthefuture\HTF-2023 Template\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathis Vanhauwe\Desktop\Hackthefuture\hackthefuture\HTF-2023 Template\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+C:\Users\Mathis Vanhauwe\Desktop\Hackthefuture\hackthefuture\HTF-2023 Template\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+C:\Users\Mathis Vanhauwe\Desktop\Hackthefuture\hackthefuture\HTF-2023 Template\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Mathis Vanhauwe\Desktop\Hackthefuture\hackthefuture\HTF-2023 Template\Common\obj\Debug\net6.0\Common.dll
+C:\Users\Mathis Vanhauwe\Desktop\Hackthefuture\hackthefuture\HTF-2023 Template\Common\obj\Debug\net6.0\refint\Common.dll
+C:\Users\Mathis Vanhauwe\Desktop\Hackthefuture\hackthefuture\HTF-2023 Template\Common\obj\Debug\net6.0\Common.pdb
+C:\Users\Mathis Vanhauwe\Desktop\Hackthefuture\hackthefuture\HTF-2023 Template\Common\obj\Debug\net6.0\ref\Common.dll
